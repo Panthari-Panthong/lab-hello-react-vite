@@ -1,0 +1,47 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: rgb(255, 255, 255);
+  color: rgb(55, 55, 55);
+}
+
+nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.menu-top {
+  height: 10px;
+}
+
+.header-container {
+  background-color: rgb(32 35 53);
+  width: 95vw;
+  height: 60vh;
+}
+
+.header-body {
+  width: 30vw;
+  padding: 2rem 5rem;
+  color: white;
+}
+
+.header-body button {
+  background-color: white;
+  color: #202335;
+  border-radius: 4px;
+  height: 3rem;
+}
+
+.content {
+  display: flex;
+  flex-direction: row;
+  gap: 3rem;
+  padding: 10rem 5rem;
+}
+
+
+
+
